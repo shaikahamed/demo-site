@@ -1,0 +1,3 @@
+These are instructions to add this file to git
+git add . - for putting in staging area
+git commit -m "" - commit with a message
